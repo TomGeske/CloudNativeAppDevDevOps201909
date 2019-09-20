@@ -9,5 +9,7 @@
 ### Requirements:
 Check out requirments section [here](https://github.com/Microsoft/MCW-Serverless-architecture/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20Serverless%20architecture.md#requirements)
 
+### Further [Events](https://aka.ms/ch-hands-on-labs)
+
 # HoL / Tutorials
 vehicle license plate recognition [hands-on](https://github.com/Microsoft/MCW-Serverless-architecture/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20Serverless%20architecture.md)
